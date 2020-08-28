@@ -1,5 +1,10 @@
-Overview
-========
+# Fork info
+
+-   commit #4d27ea52181ad18144200f08b814d0f48019b88a adds `.less` and
+    `.scss` extensions to the existing handling for `.css` files,
+    yielding `text/css` mime-types when serving those files.
+
+# Overview
 
 [![Build Status](https://travis-ci.org/swisspol/GCDWebServer.svg?branch=master)](https://travis-ci.org/swisspol/GCDWebServer)
 [![Version](http://cocoapod-badges.herokuapp.com/v/GCDWebServer/badge.png)](http://cocoadocs.org/docsets/GCDWebServer)
